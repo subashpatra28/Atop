@@ -1,0 +1,21 @@
+
+.gallery > section, .sc-dkzDqf .hbYMBe {
+  width: 100% !important;
+  /* padding: 40px; */
+  background: #fff;
+  columns: 3 !important;
+  /* column-gap: 20px; */
+}
+.galleryChildren {
+  width: 100% !important;
+  height: 100% !important;
+  object-fit: cover !important;
+  margin-bottom: 40px !important;
+  border-radius: 5px !important;
+  cursor: pointer !important;
+  background: #f9f9f9 !important;
+}
+.grid-images {
+  width: 100%;
+  padding-bottom: 10px;
+}
